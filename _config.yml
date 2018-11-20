@@ -22,15 +22,15 @@ linkedin_username: deepc94 # your LinkedIn user name
 scholar_userid: Ld6-470AAAAJ # your Google Scholar ID
 orcid_id: # your ORCID ID
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Please reach out to me by email for full-time opportunities starting May 2019.
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: deep-homepage
-blog_description: Deep Chakraborty's Homepage
+blog_name: deep-thinking
+blog_description: A Deep Learner's musings.
 
 # Pagination
 paginate: 4
