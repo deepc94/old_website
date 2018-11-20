@@ -13,7 +13,7 @@
   {% if entry.type == "thesis" %}
     {{reference}}
   {% else %}
-    <span class="title"><a href="{{site.baseurl}}/assets/docs/{{entry.key}}.pdf"> <strong> {{entry.title}} </strong> </a></span>
+    <span class="title"><a href="/assets/docs/{{entry.key}}.pdf"> <strong> {{entry.title}} </strong> </a></span>
     <span class="author">
       {% for author in entry.author_array %}
         {% if forloop.length == 1 %}
