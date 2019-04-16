@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2018-11-03 08:28:04-0400
+date: 2019-03-18 13:55:00-0400
 inline: true
 ---
 
-Our submission to [INTERSPEECH 2019](https://www.interspeech2019.org/){:target="\_blank"} is now on [arXiv](https://arxiv.org/abs/1811.01174){:target="\_blank"}.
+I will be starting my Ph.D. at the [Information Fusion Lab](https://github.com/Information-Fusion-Lab-Umass){:target="\_blank"} at UMass Amherst under [Dr. Madalina Fiterau](http://www.cs.cmu.edu/~mfiterau/){:target="\_blank"}.
