@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Face Verification
-description: Novel pooling of CNN features from multiple images
-img: /assets/img/faces.png
-redirect: https://github.com/deepc94/face-ensemble
+title: Activity Forecasting from Missing Data
+description: 
+img: /assets/img/gru.png
+redirect: https://github.com/deepc94/activity-forecast
 ---
 
 Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.

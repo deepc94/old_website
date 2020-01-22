@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Social Mobile Autonomous Robot Testbed
+title: Sentiment Style Transfer
 description: 
-img: /assets/img/smart.jpg
-redirect: https://www.youtube.com/watch?v=ei4pLjeLmPk&t=5s
+img: /assets/img/encoder-decoder.png
+redirect: https://github.com/deepc94/sentiment-style-transfer
 ---
 
 Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.

@@ -1,9 +1,9 @@
 ---
 layout: page
-title: SVMTorch for user defined kernels
-description: 
-img: /assets/img/svm.png
-redirect: https://github.com/deepc94/SVMTorch
+title: Semantic Segmentation using Dilated Convolution
+description:
+img: /assets/img/stanford.png
+redirect: https://github.com/deepc94/dilated_seg
 ---
 
 Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.

@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Sentiment Style Transfer
+title: SVMTorch for user defined kernels
 description: 
-img: /assets/img/encoder-decoder.png
-redirect: https://github.com/deepc94/sentiment-style-transfer
+img: /assets/img/svm.png
+redirect: https://github.com/deepc94/SVMTorch
 ---
 
 Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
