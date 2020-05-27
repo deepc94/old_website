@@ -7,16 +7,17 @@ description: UMass Amherst Computer Science Ph.D. student. <br> dchakraborty [at
 profile:
   align: right
   image: dp.jpg
-<!--   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p> -->
+  address: >
+    <p>740 N Pleasant St.</p>
+    <p>Room A249</p>
+    <p>Amherst, MA 01003</p>
 
 news: true
 social: true
 ---
 
-**Hello!** I am a third year MS/Ph.D. student at the [College of Information and Computer Sciences](https://www.cics.umass.edu/){:target="\_blank"} at [University of Massachusetts Amherst](https://www.umass.edu/){:target="\_blank"} specializing in Deep Learning, Computer Vision and Speech Processing. Currently, I'm working with [Dr. Madalina Fiterau](http://www.cs.cmu.edu/~mfiterau/){:target="\_blank"} on improving object detection in thermal images. Last summer, I was a Research Intern at [Signify Research](https://www.signify.com/en-us){:target="\_blank"} (formerly Philips Lighting) working on automatic speech emotion recognition/conversion and audio event detection using deep learning. 
-Previously, I worked with [Dr. Erik Learned-Miller](https://people.cs.umass.edu/~elm/){:target="\_blank"} on improving object detection in images using unsupervised hard example mining from videos. Before grad school, I worked as a Software Engineer at [Seagate Technology](https://www.seagate.com/).
+**Hi there!** I am a third year MS/Ph.D. student at the [College of Information and Computer Sciences](https://www.cics.umass.edu/){:target="\_blank"} at [University of Massachusetts Amherst](https://www.umass.edu/){:target="\_blank"} specializing in deep Learning, computer vision and speech processing. Currently, I'm working with [Erik Learned-Miller](https://people.cs.umass.edu/~elm/){:target="\_blank"} and [Madalina Fiterau](http://www.cs.cmu.edu/~mfiterau/){:target="\_blank"} on improving object detection by incorporating "visual common sense" using self-supervision.
 
-In my free time, I love to cook gourmet dishes (especially those by Gordon Ramsay), and listen to classic rock music (I'm a big fan of Queen). To know more about me, look at some of the [projects](/projects) I've done, or [papers](/publications) I've published. For more details, take a look at my [Résumé](/assets/docs/Deep_Chakraborty_Resume.pdf).
+In the past I have worked on applying deep learning to audio processing tasks such as emotion conversion and speaker/event identification as a research intern at [Signify Research](https://www.signify.com/en-us){:target="\_blank"} (formerly Philips Lighting) and at the [Indian Institute of Technology at Mandi](http://iitmandi.ac.in/){:target="\_blank"}. I also worked as a software engineer at [Seagate Technology](https://www.seagate.com/){:target="\_blank"} prior to grad school. I got my bachelor's degree in [Electronics & Communication engineering](https://manipal.edu/mit/department-faculty/department-list/electronics-communication-engineering.html){:target="\_blank"} from [Manipal Institute of Technology](https://manipal.edu/mit.html){:target="\_blank"} in India.
+
+In my free time, I love to cook gourmet dishes (especially those by Gordon Ramsay), play the guitar and listen to classic rock music (I'm a big fan of Queen). To know more about me, look at some of the [projects](/projects) I've done, or [papers](/publications) I've published. For more details, take a look at my [CV](/assets/docs/Deep_Chakraborty_CV.pdf).
